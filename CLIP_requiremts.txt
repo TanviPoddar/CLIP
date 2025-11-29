@@ -1,0 +1,30 @@
+torch
+torchvision
+torchaudio
+
+open_clip_torch
+transformers
+accelerate
+
+pillow
+numpy
+pandas
+scikit-learn
+scipy
+
+tqdm
+matplotlib
+seaborn
+
+einops
+peft
+
+# For Jupyter / colab environments
+ipython
+jupyter
+
+# Optional but often used for medical image handling
+opencv-python
+
+# GitHub link - https://github.com/TanviPoddar/CLIP
+# Dataset link - https://www.kaggle.com/competitions/siim-isic-melanoma-classification/data?select=jpeg
